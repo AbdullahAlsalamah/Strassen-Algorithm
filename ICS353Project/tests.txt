@@ -1,0 +1,1 @@
+matrixMultiply 1 52 13 input3.txt output3.txt
